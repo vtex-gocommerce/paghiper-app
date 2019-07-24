@@ -1,0 +1,6 @@
+{
+  "admin.gateway.paghiper-app": {
+    "component": "index",
+    "path": "/admin/app/gateway/payments/gocommerce.paghiper-app"
+  }
+}
