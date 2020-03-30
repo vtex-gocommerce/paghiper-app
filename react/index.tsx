@@ -22,7 +22,7 @@ class PaymentFormComponent extends React.PureComponent<PaymentFormProps, Payment
         {({ accountData }:AccountDataInterface) => {
           const { country } = accountData
           const { intl } = this.props
-          const intlPrefix = 'admin.payment.paghiper'
+          const intlPrefix = 'admin/payment.paghiper'
           const paymentSchema = {
             "title": "PagHiper",
             "properties": {
