@@ -1,7 +1,7 @@
 {
   "name": "paghiper-app",
   "vendor": "gocommerce",
-  "version": "2.0.1",
+  "version": "2.0.2",
   "title": "PagHiper",
   "description": "PagHiper App",
   "mustUpdateAt": "2019-03-02",
